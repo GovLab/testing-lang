@@ -23,5 +23,8 @@
     "gulp-util": "^3.0.7",
     "gulp-yaml": "^1.0.1",
     "run-sequence": "^1.2.2"
+  },
+  "dependencies": {
+    "request": "^2.74.0"
   }
 }
