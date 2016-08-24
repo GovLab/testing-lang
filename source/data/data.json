@@ -1,0 +1,17 @@
+{
+  "languages": [
+    {
+      "lang": "en",
+      "text_1": "text in english",
+      "text_2": "another text"
+    }, {
+      "lang": "pt",
+      "text_1": "texto em portugues",
+      "text_2": "outro texto"
+    }, {
+      "lang": "fr",
+      "text_1": "Texte en français",
+      "text_2": "autre texte"
+    }
+  ]
+}
